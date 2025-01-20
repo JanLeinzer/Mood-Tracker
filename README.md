@@ -2,7 +2,7 @@
 
 A real-time mood tracking application built with Svelte and NestJS that allows users to log their emotional states with emojis and notes. Features a beautiful animated gradient background, dark mode support, and a clean, responsive interface.
 
-![Mood Tracker Demo](https://www.dropbox.com/scl/fi/g2dttoaixaslv9lzg4cfj/Opera-Snapshot_2025-01-19_205639_localhost.png?rlkey=h9mk7kwo52ybck8mu0bxsrcux&st=lqbg0ars&dl=0)
+![Mood Tracker Demo] https://www.dropbox.com/scl/fi/g2dttoaixaslv9lzg4cfj/Opera-Snapshot_2025-01-19_205639_localhost.png?rlkey=h9mk7kwo52ybck8mu0bxsrcux&st=lqbg0ars&dl=0
 
 ## 🌟 Features
 
